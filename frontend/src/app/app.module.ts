@@ -13,6 +13,9 @@ import { CarruselComponent } from './component/carrusel/carrusel.component';
 import { NormatividadComponent } from './component/normatividad/normatividad.component';
 import { NosotrosComponent } from './component/nosotros/nosotros.component';
 import { ServiciosComponent } from './component/servicios/servicios.component';
+import { HomeComponent } from './component/home/home.component';
+import { PresentacionComponent } from './component/presentacion/presentacion.component';
+import { IndexAdminComponent } from './component/index-admin/index-admin.component';
 
 
 
@@ -28,6 +31,9 @@ import { ServiciosComponent } from './component/servicios/servicios.component';
     NosotrosComponent,
     ServiciosComponent,
     LoginComponent,
+    HomeComponent,
+    PresentacionComponent,
+    IndexAdminComponent,
 
   ],
   imports: [
